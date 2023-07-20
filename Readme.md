@@ -1,3 +1,10 @@
+<div align="center">
+<img src="https://github.com/Rayhan-Uddin/HR-Attrition-Dashboard/blob/main/HR%20Dataset%20final%20-%20Excel%207_20_2023%205_49_04%20AM.png" />
+</div>
+
+
+
+https://github.com/Rayhan-Uddin/HR-Attrition-Dashboard/blob/main/HR%20Dataset%20final%20-%20Excel%207_20_2023%205_49_04%20AM.png
 
 Data Analysis | Excel Dashboard | HR Attrition Dashboard | Rayhan Al Ahmed
 Ever wondered what's causing attrition in your organization? 🤔 Unraveling the reasons behind employee turnover is crucial to building a better workplace and
