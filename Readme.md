@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Rayhan-Uddin/HR-Attrition-Dashboard/blob/main/HR%20Dataset%20final%20-%20Excel%207_20_2023%205_49_04%20AM.png" />
+<img src="https://github.com/Rayhan-Uddin/HR-Attrition-Dashboard/blob/main/HR%20Dataset%20final%20-%20Excel%207_20_2023%205_49_04%20AM%20(2).png" />
 </div>
 
 
