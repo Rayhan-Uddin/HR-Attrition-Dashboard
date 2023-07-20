@@ -21,7 +21,4 @@ Frequent business travel impacts retention! Excel365's conditional formatting an
 HR Attrition analysis is made super simple with Excel365! 💼💻
 Take charge of employee retention and create a happier, more engaged workforce. Embrace data-driven decision-making and transform your organization's success! 🚀🌟
 
-<video width="640" height="360" controls>
-  <source src="">
-  Your browser does not support the video tag.
-</video>
+[![Video Thumbnail](https://github.com/Rayhan-Uddin/HR-Attrition-Dashboard/blob/main/2023-07-20%2023-17-24.mkv)
